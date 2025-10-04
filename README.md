@@ -64,7 +64,7 @@
 
 <!-- Ses Dosyası -->
 <audio id="arkamuzik" loop>
-  <source src="muzik.mp3" type="audio/mpeg">
+  <source src="mervosauygun.mp3" type="audio/mpeg">
   Tarayıcınız audio elementini desteklemiyor.
 </audio>
 
