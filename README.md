@@ -1,7 +1,7 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Başkanım Doğum Günün Kutlu Olsun 🎂</title>
+  <title>Mervoş reis kusura bakma😞 al bu pasta sana 🎂</title>
   <style>
     body {
       margin: 0;
@@ -46,8 +46,8 @@
   </style>
 </head>
 <body>
-  <h1>🎂 Başkanım Doğum Günün Kutlu Olsun 🎂</h1>
-  <p>Başkanım Doğum günün kutlu olsun. Geç kalınca farklı bir şey yapayım dedim. Seviliyorsun Başki ❤️</p>
+  <h1>🎂 Mervoş Doğum Günün Kutlu Olsun 🎂</h1>
+  <p>Gurbetteyim gurbettee. İyi ki dogdun iyi ki varsın ❤️🧁🍫🍬🍭🍪🥮🎂 dur pastayı böleyim senin yerine 🍰 heh. Al sana kahve de ☕️. Bir de hediye vereyim 🎁. 🎁--> ⭐️(fenerden çaldım) gün bitmeden yetiştirmem lazım  </p>
 
   <div class="slideshow">
     <img src="eren1.jpg" class="active" alt="Fotoğraf 1">
@@ -79,7 +79,7 @@
   }
 </script>
 
-  <footer>Hazırlayan: Orucun ❤️</footer>
+  <footer>Hazırlayan: Oruç ❤️</footer>
 
   <script>
     let index = 0;
