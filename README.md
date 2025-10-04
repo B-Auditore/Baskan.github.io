@@ -50,11 +50,12 @@
   <p>Gurbetteyim gurbettee. İyi ki dogdun iyi ki varsın ❤️🧁🍫🍬🍭🍪🥮🎂 dur pastayı böleyim senin yerine 🍰 heh. Al sana kahve de ☕️. Bir de hediye vereyim 🎁. 🎁--> ⭐️(fenerden çaldım) gün bitmeden yetiştirmem lazım  </p>
 
   <div class="slideshow">
-    <img src="eren1.jpg" class="active" alt="Fotoğraf 1">
-    <img src="eren2.jpg" alt="Fotoğraf 2">
-    <img src="eren3.jpg" alt="Fotoğraf 3">
-    <img src="eren4.jpg" alt="Fotoğraf 4">
-    <img src="eren5.jpg" alt="Fotoğraf 5">
+    <img src="mervos1.jpg" class="active" alt="Fotoğraf 1">
+    <img src="mervos2.jpg" alt="Fotoğraf 2">
+    <img src="mervos3.jpg" alt="Fotoğraf 3">
+    <img src="mervos4.jpg" alt="Fotoğraf 4">
+    <img src="mervos5.jpg" alt="Fotoğraf 5">
+    <img src="mervos6.jpg" alt="Fotoğraf 6">
   </div>
 
   <!-- Oynatma Tuşu -->
